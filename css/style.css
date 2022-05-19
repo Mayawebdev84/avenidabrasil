@@ -1,0 +1,168 @@
+
+
+
+body {
+    margin: 0;
+    font-family: 'Fauna One', serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+}
+
+
+
+
+
+.h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+
+    font-family: 'Playfair Display', serif;
+
+}
+
+.a {
+
+    font-family: 'Playfair Display', serif;
+}
+
+.p {
+
+    font-family: 'Fauna One', serif;
+}
+
+
+
+
+
+
+.section1 {
+
+    font-family: 'Playfair Display', serif;
+   
+}
+
+
+
+
+
+.section2 {
+
+    font-family: 'Playfair Display', serif;
+}
+
+
+
+
+.section3 {
+    display: flex;
+margin-left: 398px;
+
+    font-family: 'Playfair Display', serif;
+}
+
+
+
+
+
+
+
+
+
+
+.section1 {
+
+    font-family: 'Playfair Display', serif;
+
+}
+
+
+
+
+
+.bobo {
+
+    font-family: 'Playfair Display', serif;
+    font-size: 60px;
+}
+
+
+.centre{display: flex;
+justify-content: center;}
+
+.card-img-top {
+     width: 100%; 
+    border-top-left-radius: calc(.25rem - 1px);
+    border-top-right-radius: calc(.25rem - 1px);
+}
+
+
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgb(0 0 0 / 0%);
+}
+
+
+
+.btn-secondary {
+    color: #fff;
+    background-color: #28A745;
+    border-color: #28A745;
+}
+
+
+
+.btn-success {
+    color: #fff;
+    background-color: #28A745;
+    border-color: #28A745;
+}
+
+
+.bg-success{       
+    
+    background-color: #28A745;
+    border-color: #28A745;
+
+
+
+
+}
+
+
+a.text-dark:focus, a.text-dark:hover {
+    color:#28A745!important;
+}
+
+
+.btn-secondary:hover {
+    color:  rgb(245, 213, 30);
+    background-color: #1e3377;
+    border-color: #545b62;
+}
+
+
+.btn-success:hover {
+    color: rgb(245, 213, 30);
+    background-color: #1e3377;
+    border-color: #1e7e34;
+}
+
+
+
+
+.btn-success {
+    color: #fff;
+    background-color: #28499d;
+    border-color: #28A745;
+}
+
+
